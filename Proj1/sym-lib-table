@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "OPL")(type "KiCad")(uri "/home/gregorio/Documenti/KiCad/Simboli e Footprint/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
-  (lib (name "KBD")(type "KiCad")(uri "/home/gregorio/Documenti/KiCad/Simboli e Footprint/kbd-main/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
-)
