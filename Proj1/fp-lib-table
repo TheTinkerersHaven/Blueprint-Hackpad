@@ -4,4 +4,5 @@
   (lib (name "OLED")(type "KiCad")(uri "/home/gregorio/Documenti/KiCad/Simboli e Footprint/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty")(options "")(descr ""))
   (lib (name "KBD")(type "KiCad")(uri "/home/gregorio/Documenti/KiCad/Simboli e Footprint/kbd-main/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "MX-Switches")(type "KiCad")(uri "/home/gregorio/Documenti/KiCad/Simboli e Footprint/MX_V2/MX_Solderable.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "/home/gregorio/Documenti/KiCad/Simboli e Footprint/Logo")(options "")(descr ""))
 )
