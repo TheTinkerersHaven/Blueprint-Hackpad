@@ -598,18 +598,7 @@
 			(uuid "bbc74fd8-42e4-44be-90c5-391a02c2131d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/MX_V2/MX .STEP"
+		(model "${KIPRJMOD}/SymbolsFootprints/MX_V2/MX .STEP"
 			(offset
 				(xyz 4.87 2.3 5)
 			)
@@ -1305,19 +1294,7 @@
 			(uuid "25f661cb-7bbf-42fc-a6e5-bb4b8d465520")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles.step"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/Rotary_Encoder.pretty/AlpsEC11.STEP"
+		(model "${KIPRJMOD}/SymbolsFootprints/Rotary_Encoder.pretty/AlpsEC11.STEP"
 			(offset
 				(xyz 7.5 -2.5 0)
 			)
@@ -1602,18 +1579,7 @@
 			(uuid "c2bf33a2-11b4-406f-b820-520b1fab5e5d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/MX_V2/MX .STEP"
+		(model "${KIPRJMOD}/SymbolsFootprints/MX_V2/MX .STEP"
 			(offset
 				(xyz 4.87 2.3 5)
 			)
@@ -1898,18 +1864,7 @@
 			(uuid "d56240aa-da3d-4856-9ae4-89edb1675f2b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/MX_V2/MX .STEP"
+		(model "${KIPRJMOD}/SymbolsFootprints/MX_V2/MX .STEP"
 			(offset
 				(xyz 4.87 2.3 5)
 			)
@@ -2501,7 +2456,7 @@
 			(uuid "b146ef3f-0cad-4220-ad65-5c5805a52fad")
 		)
 		(embedded_fonts no)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/Rotary_Encoder.pretty/AlpsEC11.STEP"
+		(model "${KIPRJMOD}/SymbolsFootprints/Rotary_Encoder.pretty/AlpsEC11.STEP"
 			(offset
 				(xyz 7.5 -2.5 0)
 			)
@@ -3081,20 +3036,7 @@
 			(uuid "bdf7033b-ad6f-41e3-852e-4bd59e5c13c6")
 		)
 		(embedded_fonts no)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
-			(hide yes)
-			(offset
-				(xyz -1.778 -6.096 0.381)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
-			(hide yes)
+		(model "${KIPRJMOD}/SymbolsFootprints/XIAO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3102,54 +3044,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO RP2040 v26.step"
-			(hide yes)
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 90)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeed Studio XIAO-ESP32-C3.step"
-			(hide yes)
-			(offset
-				(xyz -1.7018 -6.096 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-ESP32S3 v2.step"
-			(hide yes)
-			(offset
-				(xyz -1.778 -6.1722 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/OPL_Kicad_Library-master/Seeed Studio XIAO RP2040 v26.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3426,18 +3321,7 @@
 			(uuid "50dbc896-4ead-4484-8c4e-0c45b1cb6ed6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/MX_V2/MX .STEP"
+		(model "${KIPRJMOD}/SymbolsFootprints/MX_V2/MX .STEP"
 			(offset
 				(xyz 4.87 2.3 5)
 			)
@@ -3807,18 +3691,7 @@
 			(uuid "9af60751-a607-4f0a-bd5b-6121456c7837")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-		(model "/home/gregorio/Documenti/KiCad/Simboli e Footprint/MX_V2/MX .STEP"
+		(model "${KIPRJMOD}/SymbolsFootprints/MX_V2/MX .STEP"
 			(offset
 				(xyz 4.87 2.3 5)
 			)
@@ -4152,6 +4025,82 @@
 				(bold yes)
 			)
 			(justify bottom mirror)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "237ddc10-daba-4c38-9b2e-47371e1e80fa")
+		(pts
+			(xy 70.5 95.5) (xy 144 95.5)
+		)
+		(height 4.5)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "73,5"
+			(at 107.25 98.2 0)
+			(layer "F.Cu")
+			(uuid "237ddc10-daba-4c38-9b2e-47371e1e80fa")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Cu")
+		(uuid "e7ba9cc0-447f-448a-85f7-16ec93ea796d")
+		(pts
+			(xy 70.5 95.5) (xy 70.5 23)
+		)
+		(height -5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.2)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "72,5"
+			(at 63.7 59.25 90)
+			(layer "F.Cu")
+			(uuid "e7ba9cc0-447f-448a-85f7-16ec93ea796d")
+			(effects
+				(font
+					(size 1.5 1.5)
+					(thickness 0.3)
+				)
+			)
 		)
 	)
 	(segment
