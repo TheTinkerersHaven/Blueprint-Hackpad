@@ -487,7 +487,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Fab Files/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "SpinKeysPCBModel.step",
