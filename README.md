@@ -1,6 +1,18 @@
 Repo containing the files for my HackPad made for Blueprint by Hack Club & AMD.
-More stuff coming!
-<img width="912" height="912" alt="PCB1" src="https://github.com/user-attachments/assets/cee56353-27a7-4eaa-a554-e5f17be3754e" />
-<img width="936" height="936" alt="PCB2" src="https://github.com/user-attachments/assets/2675fb1d-56b9-4e77-8b13-45f75639021c" />
-<img width="918" height="918" alt="PCB3" src="https://github.com/user-attachments/assets/3db997cf-7d13-4cb3-b60c-8f9dc6ef7a22" />
-<img width="1159" height="901" alt="PCB4" src="https://github.com/user-attachments/assets/40f101a3-447a-4f79-8180-7537bc80e72c" />
+---
+BOM:
+- 1x Seeed Studio XIAO RP2040
+- 1x 128x64 0.91" I2C OLED Screen
+- 2x ALPS EC11 Rotary Encoders
+- 5x Cherry MX-Style Mechanical Key Switches
+- 8x M3 threaded inserts (the holes are 4.7mm diameter and 4mm deep)
+- 8x M3 Screws
+---
+Images:
+<img width="1250" height="800" alt="SpinKeys-Overall" src="https://github.com/user-attachments/assets/72adcfa6-26d8-481a-9ce7-cf0fbd8e93b7" />
+<img width="1178" height="821" alt="SpinKeys-Case" src="https://github.com/user-attachments/assets/2c7f60b1-4d83-4f53-9e83-54aeb5925615" />
+<img width="1150" height="804" alt="SpinKeys-Lid" src="https://github.com/user-attachments/assets/90701230-c39f-49c4-959e-72abbca99da8" />
+<img width="1100" height="700" alt="SpinKeys-Schematic" src="https://github.com/user-attachments/assets/9149f87e-0144-49ea-9c67-f192ccd82edd" />
+<img width="940" height="830" alt="SpinKeys-PCB" src="https://github.com/user-attachments/assets/5e7c7ef9-5189-4dc2-a1a1-3924ea189a6d" />
+---
+NOTE: the case's USB-C hole is taller than usual, to allow the XIAO to be mounted either as SMD or THT.
